@@ -1,0 +1,59 @@
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.exe
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.deps.json
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.runtimeconfig.json
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.dll
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.pdb
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.Form1.resources
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.AssemblyInfo.cs
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.CopyComplete
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.dll
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\refint\CSVProject.dll
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.pdb
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.genruntimeconfig.cache
+C:\Users\asus\Desktop\WebScraping\CSVProject\CSVProject\obj\Debug\net6.0-windows\ref\CSVProject.dll
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.exe
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.deps.json
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.runtimeconfig.json
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.dll
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.pdb
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\bin\Debug\net6.0-windows\CsvHelper.dll
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.AssemblyReference.cache
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.Form1.resources
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.GenerateResource.cache
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.AssemblyInfoInputs.cache
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.AssemblyInfo.cs
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.CoreCompileInputs.cache
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.CopyComplete
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.dll
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\refint\CSVProject.dll
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.pdb
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.genruntimeconfig.cache
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\ref\CSVProject.dll
+D:\Deneme klasörü\yazlab1-2\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.ResolveComReference.cache
+C:\Users\asus\Desktop\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.exe
+C:\Users\asus\Desktop\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.deps.json
+C:\Users\asus\Desktop\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.runtimeconfig.json
+C:\Users\asus\Desktop\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.dll
+C:\Users\asus\Desktop\CSVProject\CSVProject\bin\Debug\net6.0-windows\CSVProject.pdb
+C:\Users\asus\Desktop\CSVProject\CSVProject\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.ResolveComReference.cache
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.Form1.resources
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.AssemblyInfo.cs
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.csproj.CopyComplete
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.dll
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\refint\CSVProject.dll
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.pdb
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\CSVProject.genruntimeconfig.cache
+C:\Users\asus\Desktop\CSVProject\CSVProject\obj\Debug\net6.0-windows\ref\CSVProject.dll
